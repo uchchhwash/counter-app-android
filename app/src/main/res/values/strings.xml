@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">COW COUNTER</string>
+    <string name="col1">BREED</string>
+    <string name="col2">ID</string>
+    <string name="row1Name">Ali</string>
+    <string name="row1Age">51</string>
+    <string name="row1Surname">Mohammad</string>
+    <string name="row2Name">Dave</string>
+    <string name="row2Age">45</string>
+    <string name="row2Surname">Smith</string>
+    <string name="row3Name">Jason</string>
+    <string name="row3Age">67</string>
+    <string name="row3Surname">William</string>
+</resources>
